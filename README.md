@@ -4,8 +4,10 @@
  - Sklearn
  - Keras
  - OpenCV
+ - Pandas
  - Numpy
  - MatPlotLib
+ - OS
  - PIL
  - Tqdm
  - Glob
