@@ -29,4 +29,4 @@ There is also a folder with the test images available.
 A description of the approach and results can be found at the [Medium Blog post](https://medium.com/@marco.schlinger/37261c88fd2a)
 
 ## Licensing, Authors, Acknowledgements, etc.
-Acknowledgement should go to [Udacity](udacity.com/) for providing the script and dataset.
+Acknowledgement should go to [Udacity](https://www.udacity.com/) for providing the script and dataset.
